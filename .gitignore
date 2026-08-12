@@ -1,0 +1,8 @@
+# Generated at runtime
+var/*.sqlite
+var/*.sqlite-*
+
+# Tooling
+.idea/
+.vscode/
+*.swp

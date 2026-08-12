@@ -1,0 +1,13 @@
+sku,name,price_net,stock_qty,status,updated_at
+BOLT-M8X40,Steel Hex Bolt M8x40,0.18,12000,active,2026-08-01T06:00:00Z
+BOLT-M10X60,Steel Hex Bolt M10x60,0.34,8000,active,2026-08-01T06:00:00Z
+TAPE-PKG-48,Packaging Tape 48mm x 100m,3.90,2200,active,2026-08-01T06:00:00Z
+GLOVE-SAFETY-L,Safety Gloves Size L,2.15,1500,active,2026-08-01T06:00:00Z
+GLOVE-SAFETY-XL,Safety Gloves Size XL,2.15,900,active,2026-08-01T06:00:00Z
+PAPER-A4-80,A4 Copy Paper 80g Ream,4.60,3000,active,2026-08-01T06:00:00Z
+LABEL-SHIP-100,Shipping Label Roll 100x150,6.20,1800,active,2026-08-01T06:00:00Z
+WASHER-M8,Steel Flat Washer M8,0.03,40000,active,2026-08-01T06:00:00Z
+NUT-M8,Steel Hex Nut M8,0.05,35000,active,2026-08-01T06:00:00Z
+STRAP-PALLET-BLK,Pallet Strapping Black 12mm,11.40,600,active,2026-08-01T06:00:00Z
+FILM-STRETCH-500,Stretch Film 500mm x 300m,9.80,1100,active,2026-08-01T06:00:00Z
+BOX-CORR-M,Corrugated Box Medium,0.75,5000,active,2026-08-01T06:00:00Z
