@@ -294,7 +294,7 @@ covers multi-provider LLM orchestration, and
 covers data-platform architecture at scale.
 
 - GitHub: https://github.com/filipradetic-afk
-- LinkedIn: https://www.linkedin.com/in/filip-radetic
+- LinkedIn: https://www.linkedin.com/in/filip-radeti%C4%87/
 - Portfolio: https://aiagencydx.com
 - Email: filip.radetic@gmail.com
 
